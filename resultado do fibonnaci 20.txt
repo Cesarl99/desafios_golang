@@ -1,2 +1,1 @@
-bom dia
-isto e uma string
+6765
